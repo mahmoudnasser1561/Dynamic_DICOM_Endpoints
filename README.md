@@ -1,6 +1,6 @@
 # Dynamic_DICOM_Endpoints
 this is a dynamic DICOM endpoint system that intelligently routes medical
-imaging data based on real-time performance metrics (latency, queue depth,bandwidth utilization, and server load).performance metrics to dynamically select
+imaging data based on real-time performance metrics (latency, queue depth,bandwidth utilization, and server load) to dynamically select
 optimal transmission paths for DICOM data.
 
 This system will:
