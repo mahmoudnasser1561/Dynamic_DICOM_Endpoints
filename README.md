@@ -9,7 +9,7 @@ This system will:
 3. Enhance system resilience against network fluctuations.​
 4. Support multi-site healthcare operations, optimizing teleradiology workflows.
 
-<img width="2631" height="1441" alt="Arch" src="https://github.com/user-attachments/assets/693265a3-1d3f-411d-9253-3a0fc6ff2a82" />
+<img width="2631" height="1391" alt="updated_system" src="https://github.com/user-attachments/assets/f6f56462-344a-456a-85b4-03c08a6d95bb" />
 
 ---
 The system will be implemented using a containerized development approach with
