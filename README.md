@@ -9,6 +9,8 @@ This system will:
 3. Enhance system resilience against network fluctuations.​
 4. Support multi-site healthcare operations, optimizing teleradiology workflows.
 
+At the end of this workflow, the anonymized metadata stored in the database will will be used for training medical machine-learning models, enabling continuous improvement in diagnostic accuracy and system intelligence.
+
 <img width="2631" height="1391" alt="updated_system" src="https://github.com/user-attachments/assets/f6f56462-344a-456a-85b4-03c08a6d95bb" />
 
 ---
