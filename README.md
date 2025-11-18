@@ -20,4 +20,4 @@ within a shared virtual network.
 
 <br>
 
-<img width="2506" height="1096" alt="dockerCompose" src="https://github.com/user-attachments/assets/60091352-c872-4700-8da0-f4663b8a367a" />
+<img width="2784" height="1217" alt="vpn drawio" src="https://github.com/user-attachments/assets/c9495a20-c910-4a05-af0a-e4cddc5a2b4c" />
